@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="viewporty" content="conceptual"  width="device-width" scale="1.0"/>
+<title>LoLiPoP is lOlIpOp</title>
+
+</head>
+<body style="background-color:black;">
+
+<h1 style="color:silver;" align="center">WELLCOME TO pohto TRAP</h1>
+<br>
+  <form action="aboutme.html" methode="post"  style="color:red">
+	<input type="text" >    YOUR ID     <br>
+	<input type="password" >   PASSWORD  <br>
+	<span style="color:blue"><b>   log in</b></span>
+	<input type="submit"  value="GO">  <hr width="280" align="left"></div>
+<!--		<textarea >write any text here</textarea>  -->
+  </form>
+ 
+ <div style="color:white">images</div>
+ 
+!-- <a href="h.jpg"  ><img src="h.jpg" width="100"></a>
+<a href="j.jpg" width="100" length="100"><img  src="j.jpg" height="100">  </a>     
+<a href="i.jpg" ><img src="i.jpg" width=80" ></a>
+<a href="c.jpg" ><img src="c.jpg"  height="70"></a> <br>-->
+<video src="s.mp4" autoplay loop controls width="150" auto></video>
+<br/> <hr>-->
+<p style="color:white"><big>The</big> sky <small>is</small> <ins> huge!</ins><br/>and amezign</p>
+
+
+</body>
+
+
+</html>
